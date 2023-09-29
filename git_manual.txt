@@ -5,5 +5,8 @@ git init
 git status
 git add .            - all files
 git add main.go      - all one file
+git commit -m "add main file"
+git diff
+git restore file_name
 
 
