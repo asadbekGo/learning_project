@@ -1,0 +1,9 @@
+
+
+
+git init
+git status
+git add .            - all files
+git add main.go      - all one file
+
+
