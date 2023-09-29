@@ -7,5 +7,9 @@ Repository
             - main
             - config
             - hello
-            
+
+
+go mod init module_name
+go get third_party_package
+go mod tidy
 
